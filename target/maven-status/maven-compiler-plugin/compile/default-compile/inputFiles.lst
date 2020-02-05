@@ -1,0 +1,16 @@
+/home/christian/Escritorio/Spring & Angular/springboot-angular8-api/src/main/java/org/websparrow/config/WebConfiguration.java
+/home/christian/Escritorio/Spring & Angular/springboot-angular8-api/src/main/java/org/websparrow/repository/ProductRepository.java
+/home/christian/Escritorio/Spring & Angular/springboot-angular8-api/src/main/java/org/websparrow/SpringBootAngularApp.java
+/home/christian/Escritorio/Spring & Angular/springboot-angular8-api/src/main/java/org/websparrow/dao/ClientDAO.java
+/home/christian/Escritorio/Spring & Angular/springboot-angular8-api/src/main/java/org/websparrow/dao/UserDAO.java
+/home/christian/Escritorio/Spring & Angular/springboot-angular8-api/src/main/java/org/websparrow/service/ClientService.java
+/home/christian/Escritorio/Spring & Angular/springboot-angular8-api/src/main/java/org/websparrow/entity/Clientes.java
+/home/christian/Escritorio/Spring & Angular/springboot-angular8-api/src/main/java/org/websparrow/repository/ClientRepository.java
+/home/christian/Escritorio/Spring & Angular/springboot-angular8-api/src/main/java/org/websparrow/service/UserService.java
+/home/christian/Escritorio/Spring & Angular/springboot-angular8-api/src/main/java/org/websparrow/service/ProductService.java
+/home/christian/Escritorio/Spring & Angular/springboot-angular8-api/src/main/java/org/websparrow/entity/Usuarios.java
+/home/christian/Escritorio/Spring & Angular/springboot-angular8-api/src/main/java/org/websparrow/controller/Controller.java
+/home/christian/Escritorio/Spring & Angular/springboot-angular8-api/src/main/java/org/websparrow/dao/ProductDAO.java
+/home/christian/Escritorio/Spring & Angular/springboot-angular8-api/src/main/java/org/websparrow/repository/UserRepository.java
+/home/christian/Escritorio/Spring & Angular/springboot-angular8-api/src/main/java/org/websparrow/entity/Producto.java
+/home/christian/Escritorio/Spring & Angular/springboot-angular8-api/src/main/java/org/websparrow/model/Response.java

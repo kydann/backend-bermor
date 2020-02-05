@@ -1,0 +1,16 @@
+org/websparrow/repository/ClientRepository.class
+org/websparrow/service/ClientService.class
+org/websparrow/controller/Controller.class
+org/websparrow/config/WebConfiguration.class
+org/websparrow/repository/ProductRepository.class
+org/websparrow/model/Response.class
+org/websparrow/entity/Usuarios.class
+org/websparrow/dao/ClientDAO.class
+org/websparrow/entity/Clientes.class
+org/websparrow/SpringBootAngularApp.class
+org/websparrow/service/ProductService.class
+org/websparrow/entity/Producto.class
+org/websparrow/dao/UserDAO.class
+org/websparrow/dao/ProductDAO.class
+org/websparrow/repository/UserRepository.class
+org/websparrow/service/UserService.class
